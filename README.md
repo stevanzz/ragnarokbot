@@ -23,6 +23,7 @@ python startbot.py
 Supported untuk display resolution:
 - 1920 x 1080
 - 1536 x 864
+
 Untuk resolution lainnya, silahkan ditambah region yang sesuai di utils.py
 Untuk mengecek resolution, bisa dijalankan getresolution.py
 ```bash
