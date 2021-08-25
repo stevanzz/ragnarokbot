@@ -41,3 +41,7 @@ Untuk mengecek resolution, bisa dijalankan getresolution.py
 ```bash
 python getresolution.py
 ```
+
+## References
+https://www.youtube.com/watch?v=wyJ1XRTmaBA&t=231s
+https://gitlab.com/dimasputraari/ragnarokbot
