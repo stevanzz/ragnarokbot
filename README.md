@@ -2,7 +2,9 @@
 
 ## .EXE File
 Aplikasi .exe file tersedia di dalam folder **dist\startbotgui.exe**.
+
 Untuk menggunakan .exe file, beberapa Antivirus harus meng-exclude file ini.
+
 Selain .exe file, user juga bisa menjalankan program dengan cara manual, bisa diikuti dengan step di bawah ini.
 
 ## Instalasi Program
