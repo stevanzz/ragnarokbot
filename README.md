@@ -43,5 +43,5 @@ python getresolution.py
 ```
 
 ## References
-https://www.youtube.com/watch?v=wyJ1XRTmaBA&t=231s
-https://gitlab.com/dimasputraari/ragnarokbot
+* https://www.youtube.com/watch?v=wyJ1XRTmaBA&t=231s
+* https://gitlab.com/dimasputraari/ragnarokbot
