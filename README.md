@@ -5,7 +5,7 @@ Aplikasi .exe file tersedia di dalam folder **dist\startbotgui.exe**.
 
 Sebelum menggunakan .exe file ini:
 * beberapa Antivirus akan mendetect file ini sebagai virus dan harus ditambahkan sebagai exclusion di Antivirus settings
-* Pastikan layar emulator sudah full screen.
+* Pastikan layar emulator sudah full screen, sebelum mengambil screenshot.
 
 Selain .exe file, user juga bisa menjalankan program dengan cara manual, bisa diikuti dengan step di bawah ini.
 
