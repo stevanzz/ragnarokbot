@@ -1,3 +1,3 @@
 from screenshot import screenshot_image
 
-screenshot_image('angkatpancing.png')
+screenshot_image('angkat-pancing.png')
