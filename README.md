@@ -3,7 +3,9 @@
 ## .EXE File
 Aplikasi .exe file tersedia di dalam folder **dist\startbotgui.exe**.
 
-Untuk menggunakan .exe file, beberapa Antivirus harus meng-exclude file ini.
+Sebelum menggunakan .exe file ini:
+* beberapa Antivirus akan mendetect file ini sebagai virus dan harus ditambahkan sebagai exclusion di Antivirus settings
+* Pastikan layar emulator sudah full screen.
 
 Selain .exe file, user juga bisa menjalankan program dengan cara manual, bisa diikuti dengan step di bawah ini.
 
@@ -33,7 +35,7 @@ python startbot.py
 ```
 
 ## Notes
-Supported untuk display resolution:
+Supported untuk display resolution di **LDPlayer**:
 - 1920 x 1080
 - 1536 x 864
 
@@ -43,6 +45,8 @@ Untuk mengecek resolution, bisa dijalankan getresolution.py
 ```bash
 python getresolution.py
 ```
+
+Untuk emulator lainnya, belum dites lagi.
 
 ## References
 * https://www.youtube.com/watch?v=wyJ1XRTmaBA&t=231s
