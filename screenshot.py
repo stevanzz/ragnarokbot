@@ -1,7 +1,8 @@
-import pyautogui
+
+from utils import get_region
 import numpy as np
 from PIL import Image, ImageDraw
-from utils import get_region
+import pyautogui
 
 
 def crop_to_circle(img):

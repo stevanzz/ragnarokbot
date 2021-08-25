@@ -1,8 +1,8 @@
-import pyautogui
+from utils import confidence, get_region
 import time
 import win32api
 import win32con
-from utils import confidence, get_region
+import pyautogui
 
 count = 0
 
